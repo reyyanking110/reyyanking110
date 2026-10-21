@@ -1,27 +1,57 @@
-# 💫 About Me:
-👋 About Me<br><br>Hey there! I'm a curious tech enthusiast who loves exploring Artificial Intelligence 🤖, Web Development 🌐, and innovative technology 🚀.<br><br>- 💻 Exploring coding and building creative projects<br>- 🤖 Interested in AI tools, chatbots, and automation<br>- 🌱 Always learning, experimenting, and improving my skills<br>- 🚀 Turning ideas into real-world projects<br>- 🤝 Open to learning, collaboration, and new opportunities<br><br>💡 My Philosophy: Learn something new every day, build things that matter, and never stop exploring!<br><br>📫 Find Me on GitHub<br><br>🔗(https://github.com/reyyanking110)<br><br>⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,50:7c3aed,100:00eaff&height=180&text=REYYAN%20ABBAS&fontColor=ffffff&fontSize=45&animation=twinkling"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syed_reyyan_abbas110) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@facter700) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reyyanabbas658@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Web+Development;Creative+Builder;Always+Learning+New+Things" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=reyyanking110&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=reyyanking110&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=reyyanking110&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=reyyanking110&style=for-the-badge&color=7c3aed"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=reyyanking110&theme=flag-india&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+## 👋 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=reyyanking110&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+- 🇵🇰 From Pakistan
+- 🤖 Interested in Artificial Intelligence
+- 💻 Exploring Web Development
+- 🚀 Building creative projects
+- 🌱 Always learning and improving
 
----
-[![](https://komarev.com/ghpvc/?username=reyyanking110&icon=3&color=5)](https://visitcount.itsvg.in)
+> **Learn • Build • Innovate**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode&theme=dark"/>
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=reyyanking110&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyanking110&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=reyyanking110&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/reyyanking110">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,50:7c3aed,100:080014&height=100&section=footer&animation=twinkling"/>
+
+**⚡ Thanks for visiting my profile!**
+
+</div>
