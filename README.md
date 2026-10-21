@@ -1,57 +1,34 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,50:7c3aed,100:00eaff&height=180&text=REYYAN%20ABBAS&fontColor=ffffff&fontSize=45&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:00F5FF,100:FF00E5&height=240&section=header&text=REYYANKING110&fontSize=58&fontColor=FFFFFF&stroke=00F5FF&strokeWidth=2&animation=fadeIn&fontAlignY=42&desc=//%20SYSTEM%20ONLINE&descSize=20&descAlignY=66" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Web+Development;Creative+Builder;Always+Learning+New+Things" />
-
-<img src="https://komarev.com/ghpvc/?username=reyyanking110&style=for-the-badge&color=7c3aed"/>
-
-</div>
-
-## 👋 About Me
-
-- 🇵🇰 From Pakistan
-- 🤖 Interested in Artificial Intelligence
-- 💻 Exploring Web Development
-- 🚀 Building creative projects
-- 🌱 Always learning and improving
-
-> **Learn • Build • Innovate**
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode&theme=dark"/>
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=reyyanking110&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyanking110&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=reyyanking110&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
+<img src="https://raw.githubusercontent.com/reyyanking110/reyyanking110/main/assets/hologram.svg" width="320" alt="3D hologram"/>
 
 <a href="https://github.com/reyyanking110">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING+REYYANKING110...;%3E+CODE+%E2%80%A2+BUILD+%E2%80%A2+ITERATE;%3E+LOADING+PROJECTS...;%3E+ACCESS+GRANTED+%E2%9C%94" alt="typing"/>
 </a>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=reyyanking110&label=VISITORS&color=FF00E5&style=for-the-badge&labelColor=000000" alt="views"/>
+<img src="https://img.shields.io/github/followers/reyyanking110?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=000000&logo=github&logoColor=00F5FF" alt="followers"/>
+
 </div>
+
+<!-- ═════════════ ABOUT ═════════════ -->
+
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=FF00E5&center=true&vCenter=true&width=420&lines=%5B+ABOUT+ME+%5D" alt="About Me"/></h2>
 
 <div align="center">
+<table>
+<tr>
+<td>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,50:7c3aed,100:080014&height=100&section=footer&animation=twinkling"/>
+```bash
+$ whoami
+> reyyanking110
 
-**⚡ Thanks for visiting my profile!**
-
-</div>
+$ cat about.txt
+> 👋 Hi, I'm Reyyan.
+> 🛠️ I build things and keep learning along the way.
+> 📫 Check out my projects below.
