@@ -1,1 +1,29 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-150 -150 300 300" width="300" height="300">
+  <defs>
+    <filter id="g" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="core"><stop offset="0" stop-color="#fff"/><stop offset="0.4" stop-color="#00F5FF"/><stop offset="1" stop-color="#FF00E5" stop-opacity="0"/></radialGradient>
+  </defs>
+  <g filter="url(#g)" fill="none" stroke-width="2.5">
+    <!-- outer ring: spins + flips in 3D -->
+    <g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+      <ellipse rx="130" ry="130" stroke="#00F5FF">
+        <animate attributeName="ry" values="130;8;130" dur="6s" repeatCount="indefinite"/></ellipse></g>
+    <!-- middle ring -->
+    <g><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="10s" repeatCount="indefinite"/>
+      <ellipse rx="95" ry="95" stroke="#FF00E5">
+        <animate attributeName="ry" values="8;95;8" dur="4.5s" repeatCount="indefinite"/></ellipse></g>
+    <!-- inner ring -->
+    <g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/>
+      <ellipse rx="60" ry="60" stroke="#00F5FF">
+        <animate attributeName="ry" values="60;6;60" dur="3s" repeatCount="indefinite"/></ellipse></g>
+    <!-- orbiting node -->
+    <g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5s" repeatCount="indefinite"/>
+      <circle cx="130" cy="0" r="6" fill="#FF00E5" stroke="none"/></g>
+    <!-- pulsing core -->
+    <circle r="22" fill="url(#core)" stroke="none">
+      <animate attributeName="r" values="16;28;16" dur="2s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
