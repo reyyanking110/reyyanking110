@@ -27,22 +27,11 @@
 <br/>
 
 ## ⟐ About Me
-const developer = {
-name: "Reyyan Abbas",
-role: "Full Stack Web Developer",
-focus: ["Building responsive web applications", "Writing clean & maintainable code", "Solving real-world problems"],
-currentlyLearning: "Always exploring the modern web ecosystem",
-motto: "Design with precision. Build with purpose."
-};
-
-
 I'm a Full Stack Web Developer focused on building functional, well-structured web applications from the ground up — from interactive front-end interfaces to robust back-end systems. I enjoy turning complex problems into simple, elegant solutions and continuously refining my craft through real project work.
 
 <br/>
 
 ## ⟐ Tech Stack
-
-> *Editable section — update as your skill set grows.*
 
 **Frontend**
 <br/>
