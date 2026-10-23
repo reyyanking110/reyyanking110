@@ -1,53 +1,66 @@
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--             🎮 REYYAN — PIXEL GAME INTRO                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════ PIXEL GAME CINEMATIC INTRO ═══════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:050816,50:00F5FF,100:050816"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=00F5FF"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,25:101044,60:30105E,100:020617&text=REYYAN%20ABBAS&fontSize=55&fontColor=00F5FF&fontAlignY=40&animation=twinkling&desc=THE%20NEXT%20LEVEL%20BEGINS&descSize=16&descColor=FFFFFF&descAlignY=62"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&height=55&lines=THE+WORLD+IS+LOADING...;A+NEW+PLAYER+HAS+ENTERED;WELCOME+TO+THE+PIXEL+UNIVERSE" alt="Cinematic game intro"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=REYYAN&fontSize=85&fontColor=00F5FF&stroke=7C3AED&strokeWidth=2&color=0:020617,50:111827,100:020617&animation=twinkling&desc=INSERT%20COIN%20%7C%20PLAYER%2001&descSize=16&descColor=FACC15&descAlignY=75"/>
 
 <br/>
 
-<img width="90%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3500&pause=1200&color=FACC15&center=true&vCenter=true&width=700&height=50&lines=BOOTING+PIXEL+WORLD...;PLAYER+01+IDENTIFIED;MISSION%3A+BUILD+THE+IMPOSSIBLE" alt="Pixel game startup"/>
 
-<br/><br/>
+<table>
+<tr>
+<td align="center">
 
-<img src="https://img.shields.io/badge/PLAYER-REYYAN-00F5FF?style=for-the-badge&labelColor=050816"/>
-<img src="https://img.shields.io/badge/CLASS-CREATOR-FF3CAC?style=for-the-badge&labelColor=050816"/>
-<img src="https://img.shields.io/badge/MISSION-UNLIMITED-39FF14?style=for-the-badge&labelColor=050816"/>
+<img src="https://img.shields.io/badge/HP-██████████-39FF14?style=for-the-badge&labelColor=080B1A"/>
 
-<br/><br/>
+<sub>CREATIVITY</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&height=45&lines=CODE+IS+MY+SUPERPOWER;IMAGINATION+IS+MY+MAP;THE+FUTURE+IS+MY+NEXT+LEVEL" alt="Game trailer dialogue"/>
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/XP-LEVELING_UP-00F5FF?style=for-the-badge&labelColor=080B1A"/>
+
+<sub>EXPERIENCE</sub>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/MODE-EXPLORER-FF3CAC?style=for-the-badge&labelColor=080B1A"/>
+
+<sub>DEVELOPER CLASS</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:7C3AED,100:FF3CAC"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C3AED"/>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&height=45&lines=Every+pixel+has+a+purpose.;Every+line+of+code+unlocks+a+new+world.;This+is+where+my+story+begins." alt="Pixel story"/>
+
+<br/>
 
 <a href="https://github.com/reyyanking110">
-<img src="https://img.shields.io/badge/▶_START_ADVENTURE-00F5FF?style=for-the-badge&labelColor=050816" alt="Start adventure"/>
+<img src="https://img.shields.io/badge/%E2%96%B6_START_GAME-00F5FF?style=for-the-badge&labelColor=080B1A" alt="Start game"/>
 </a>
 &nbsp;
 <a href="https://reyyanabbas.vercel.app">
-<img src="https://img.shields.io/badge/ENTER_MY_WORLD-FF3CAC?style=for-the-badge&labelColor=050816" alt="Enter my world"/>
+<img src="https://img.shields.io/badge/OPEN_WORLD-FF3CAC?style=for-the-badge&labelColor=080B1A" alt="Open portfolio"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2500&pause=1000&color=FACC15&center=true&vCenter=true&width=700&height=35&lines=PRESS+START+TO+CONTINUE...;PLAYER+ONE+READY;TO+BE+CONTINUED..." alt="Game loading screen"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=2500&pause=1200&color=00F5FF&center=true&vCenter=true&width=650&height=35&lines=NO+SHORTCUTS.+JUST+LEVELS.;SAVE+POINT%3A+TODAY;TO+BE+CONTINUED_"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:020617,50:30105E,100:00F5FF&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=00F5FF"/>
 
 </div>
 
----
+<!-- ═══════════ END INTRO ═══════════ -->
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
