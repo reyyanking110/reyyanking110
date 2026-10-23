@@ -1,102 +1,54 @@
+
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--          🎮 REYYAN — PIXEL GAME CINEMATIC INTRO             -->
+<!--             🎮 REYYAN — PIXEL GAME INTRO                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- CINEMATIC OPENING -->
-<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=00F5FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:050816,50:00F5FF,100:050816"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,25:101044,60:30105E,100:020617&text=REYYAN%20ABBAS&fontSize=55&fontColor=00F5FF&fontAlignY=40&animation=twinkling&desc=THE%20NEXT%20LEVEL%20BEGINS&descSize=16&descColor=FFFFFF&descAlignY=62"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&height=55&lines=THE+WORLD+IS+LOADING...;A+NEW+PLAYER+HAS+ENTERED;WELCOME+TO+THE+PIXEL+UNIVERSE" alt="Cinematic game intro"/>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:101044,65:30105E,100:020617&height=180&section=header&text=REYYAN&fontSize=70&fontColor=00F5FF&fontAlignY=45&animation=twinkling&desc=THE%20PIXEL%20CHRONICLES&descSize=18&descColor=FF3CAC&descAlignY=70" />
-
-<!-- TRAILER OPENING TEXT -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=IN+A+WORLD+BUILT+FROM+CODE...;ONE+PLAYER+DARES+TO+CREATE.;THE+NEXT+LEVEL+STARTS+NOW." />
-
-<br/>
-
-<!-- GAME STATUS SCREEN -->
-<img src="https://img.shields.io/badge/PLAYER%2001-REYYAN-00F5FF?style=for-the-badge&labelColor=080B1A" />
-<img src="https://img.shields.io/badge/GAME_MODE-CREATIVE-FF3CAC?style=for-the-badge&labelColor=080B1A" />
-<img src="https://img.shields.io/badge/PLAYER_STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=080B1A" />
+<img width="90%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
 
 <br/><br/>
 
-<!-- THE STORY BEGINS -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7C3AED" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&width=850&height=45&lines=YEAR+20XX%3A+THE+DIGITAL+ERA;THE+WORLD+IS+MY+PLAYGROUND;MY+WEAPON%3F+IMAGINATION+%2B+CODE." />
-
-<br/>
-
-<!-- PIXEL GAME VISUAL -->
-<img width="90%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img src="https://img.shields.io/badge/PLAYER-REYYAN-00F5FF?style=for-the-badge&labelColor=050816"/>
+<img src="https://img.shields.io/badge/CLASS-CREATOR-FF3CAC?style=for-the-badge&labelColor=050816"/>
+<img src="https://img.shields.io/badge/MISSION-UNLIMITED-39FF14?style=for-the-badge&labelColor=050816"/>
 
 <br/><br/>
 
-<!-- CHAPTER TITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=800&height=55&lines=CHAPTER+01%3A+THE+BEGINNING;CHAPTER+02%3A+BUILD+THE+IMPOSSIBLE;CHAPTER+03%3A+UNLOCK+THE+FUTURE" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&height=45&lines=CODE+IS+MY+SUPERPOWER;IMAGINATION+IS+MY+MAP;THE+FUTURE+IS+MY+NEXT+LEVEL" alt="Game trailer dialogue"/>
 
 <br/>
 
-<!-- CINEMATIC QUOTE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00F5FF" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=45&lines=NOT+JUST+PLAYING+THE+GAME...;I'M+HERE+TO+BUILD+MY+OWN+WORLD.;EVERY+LINE+OF+CODE+IS+A+NEW+LEVEL." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:7C3AED,100:FF3CAC"/>
 
 <br/><br/>
 
-<!-- PLAYER ATTRIBUTES -->
-<table>
-<tr>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/XP-9999-00F5FF?style=for-the-badge&labelColor=080B1A" />
-<br/>
-<b>EXPERIENCE</b>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/CLASS-CREATOR-FF3CAC?style=for-the-badge&labelColor=080B1A" />
-<br/>
-<b>CHARACTER</b>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/MISSION-LEVEL_UP-39FF14?style=for-the-badge&labelColor=080B1A" />
-<br/>
-<b>OBJECTIVE</b>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- START GAME -->
 <a href="https://github.com/reyyanking110">
-<img src="https://img.shields.io/badge/▶_START_GAME-00F5FF?style=for-the-badge&labelColor=080B1A" />
+<img src="https://img.shields.io/badge/▶_START_ADVENTURE-00F5FF?style=for-the-badge&labelColor=050816" alt="Start adventure"/>
 </a>
 &nbsp;
 <a href="https://reyyanabbas.vercel.app">
-<img src="https://img.shields.io/badge/ENTER_MY_WORLD-FF3CAC?style=for-the-badge&labelColor=080B1A" />
+<img src="https://img.shields.io/badge/ENTER_MY_WORLD-FF3CAC?style=for-the-badge&labelColor=050816" alt="Enter my world"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2500&pause=1000&color=FACC15&center=true&vCenter=true&width=700&height=35&lines=PRESS+START+TO+CONTINUE...;PLAYER+ONE+IS+READY.;THE+ADVENTURE+NEVER+ENDS." />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2500&pause=1000&color=FACC15&center=true&vCenter=true&width=700&height=35&lines=PRESS+START+TO+CONTINUE...;PLAYER+ONE+READY;TO+BE+CONTINUED..." alt="Game loading screen"/>
 
-<br/>
-
-<!-- ENDING SCENE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:30105E,100:00F5FF&height=100&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:020617,50:30105E,100:00F5FF&section=footer"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 END OF CINEMATIC INTRO                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
+
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
 ## 👨‍💻 About Me
@@ -139,30 +91,28 @@ I enjoy turning ideas into digital experiences and discovering how technology ca
 
 <br/><br/>
 
-<!-- YouTube Channels -->
-<h2 align="center">🎬 My YouTube Channels</h2>
+<h2>🎬 My YouTube Channels</h2>
 
-<p align="center">
-  <a href="https://www.youtube.com/@voiceofshahnazabidi">
-    <img src="https://img.shields.io/badge/Voice_of_Shahnaz_Abidi-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@facter700">
-    <img src="https://img.shields.io/badge/FactER_700-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@itsryanpk">
-    <img src="https://img.shields.io/badge/It's_Ryan_PK-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@vlogsbyshahhaz">
-    <img src="https://img.shields.io/badge/Vlogs_by_Shahhaz-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.youtube.com/@voiceofshahnazabidi">
+<img src="https://img.shields.io/badge/Voice_of_Shahnaz_Abidi-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Voice of Shahnaz Abidi"/>
+</a>
+<a href="https://youtube.com/@facter700">
+<img src="https://img.shields.io/badge/FactER_700-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="FactER 700"/>
+</a>
+<a href="https://youtube.com/@itsryanpk">
+<img src="https://img.shields.io/badge/It's_Ryan_PK-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="It's Ryan PK"/>
+</a>
+<a href="https://www.youtube.com/@vlogsbyshahhaz">
+<img src="https://img.shields.io/badge/Vlogs_by_Shahhaz-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Vlogs by Shahhaz"/>
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Content-Facts%20%26%20Knowledge-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Content-Vlogs-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Content-AI%20Videos-00C7B7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Content-Entertainment-ff69b4?style=flat-square" />
-</p>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Content-Facts%20%26%20Knowledge-blueviolet?style=flat-square"/>
+<img src="https://img.shields.io/badge/Content-Vlogs-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Content-AI%20Videos-00C7B7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Content-Entertainment-ff69b4?style=flat-square"/>
+
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=450&height=30&lines=Connect+%E2%80%A2+Collaborate+%E2%80%A2+Create" alt="Animated connect message"/>
@@ -205,63 +155,90 @@ I enjoy turning ideas into digital experiences and discovering how technology ca
 
 ## 🚀 Projects & Experiments
 
-<!-- 🌐 Web Projects -->
 <h2 align="center">🌐 My Web Development Projects</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Building+Modern+Websites;Turning+Ideas+Into+Reality;Learning+ by+Building+Projects;My+Web+Development+Journey" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Building+Modern+Websites;Turning+Ideas+Into+Reality;Learning+by+Building+Projects;My+Web+Development+Journey" alt="Web development animation"/>
 </p>
 
 <table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🚀 Personal Portfolio</h3>
-      <a href="https://reyyanabbas.vercel.app">
-        <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge" />
-      </a>
-      <br/><br/>
-      <p>A personal website showcasing my developer identity, skills, and work.</p>
-      <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square" />
-      <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
-    </td>
-    <td width="50%" align="center">
-      <h3>💻 Project One</h3>
-      <a href="https://project1-taupe-psi.vercel.app/">
-        <img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge" />
-      </a>
-      <br/><br/>
-      <p>A web project built to explore modern design and interactive web experiences.</p>
-      <img src="https://img.shields.io/badge/Type-Web_Project-blue?style=flat-square" />
-      <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>✨ Project Two</h3>
-      <a href="https://mywebsite-orcin-alpha.vercel.app/">
-        <img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge" />
-      </a>
-      <br/><br/>
-      <p>Another website from my journey of learning, experimenting, and creating.</p>
-      <img src="https://img.shields.io/badge/Type-Web_Development-blue?style=flat-square" />
-      <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
-    </td>
-    <td width="50%" align="center">
-      <h3>🧪 Future Projects</h3>
-      <img src="https://img.shields.io/badge/Coming-Soon-333333?style=for-the-badge&logo=github" />
-      <br/><br/>
-      <p>More creative websites, experiments, and exciting projects are on the way.</p>
-      <img src="https://img.shields.io/badge/Focus-Creativity-orange?style=flat-square" />
-      <img src="https://img.shields.io/badge/Goal-Build_More-blueviolet?style=flat-square" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center">
+
+<h3>🚀 Personal Portfolio</h3>
+
+<a href="https://reyyanabbas.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge" alt="Portfolio demo"/>
+</a>
+
+<br/><br/>
+
+<p>A personal website showcasing my developer identity, skills, and work.</p>
+
+<img src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
+
+</td>
+<td width="50%" align="center">
+
+<h3>💻 Project One</h3>
+
+<a href="https://project1-taupe-psi.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge" alt="Project one demo"/>
+</a>
+
+<br/><br/>
+
+<p>A web project built to explore modern design and interactive web experiences.</p>
+
+<img src="https://img.shields.io/badge/Type-Web_Project-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<h3>✨ Project Two</h3>
+
+<a href="https://mywebsite-orcin-alpha.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge" alt="Project two demo"/>
+</a>
+
+<br/><br/>
+
+<p>Another website from my journey of learning, experimenting, and creating.</p>
+
+<img src="https://img.shields.io/badge/Type-Web_Development-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
+
+</td>
+<td width="50%" align="center">
+
+<h3>🧪 Future Projects</h3>
+
+<img src="https://img.shields.io/badge/Coming-Soon-333333?style=for-the-badge&logo=github" alt="Coming soon"/>
+
+<br/><br/>
+
+<p>More creative websites, experiments, and exciting projects are on the way.</p>
+
+<img src="https://img.shields.io/badge/Focus-Creativity-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Goal-Build_More-blueviolet?style=flat-square"/>
+
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/reyyanking110?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/reyyanking110?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
+</a>
+
+</div>
+
+---
 
 <!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
 
@@ -302,9 +279,9 @@ I enjoy turning ideas into digital experiences and discovering how technology ca
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reyyanking110/reyyanking110/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reyyanking110/reyyanking110/output/github-contribution-grid-snake.svg"/>
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/reyyanking110/reyyanking110/output/github-contribution-grid-snake.svg" width="100%"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reyyanking110/reyyanking110/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reyyanking110/reyyanking110/output/github-contribution-grid-snake.svg"/>
+<img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/reyyanking110/reyyanking110/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 <br/>
