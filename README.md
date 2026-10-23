@@ -21,11 +21,11 @@
 
 <br/>
 
-<a href="https://github.com/reyyanking110">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-0D1117?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
 <a href="https://reyyanabbas.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+</a>
+<a href="https://github.com/reyyanking110?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My_Projects-111827?style=for-the-badge&logo=github" alt="Projects"/>
 </a>
 <a href="https://www.instagram.com/syed_reyyan_abbas110/">
 <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -39,8 +39,8 @@
 
 ```yaml
 name: Reyyan Abbas
-github: reyyanking110
-portfolio: reyyanabbas.vercel.app
+username: reyyanking110
+portfolio: https://reyyanabbas.vercel.app
 
 roles:
   - Developer
@@ -131,25 +131,19 @@ For me, development isn't just about writing code. It's about solving problems, 
 ### 🌐 Programming & Web Technologies
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp&theme=dark" alt="Programming and web technologies"/>
-
 </div>
 
 ### ⚙️ Development Tools
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Development tools"/>
-
 </div>
 
 ### 🎨 Design & Creative Tools
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=figma,canva,photoshop&theme=dark" alt="Design tools"/>
-
 </div>
 
 *These icons represent technologies and tools in my learning and creative interests; they don't imply expert-level proficiency in every tool.*
@@ -160,8 +154,6 @@ For me, development isn't just about writing code. It's about solving problems, 
 
 <div align="center">
 
-### Explore My Digital Creations
-
 *Websites and projects built with creativity, code, and passion.*
 
 </div>
@@ -170,7 +162,7 @@ For me, development isn't just about writing code. It's about solving problems, 
 <tr>
 <td width="50%" valign="top">
 
-<h3>🌐 Personal Portfolio</h3>
+### 🌐 Personal Portfolio
 
 <a href="https://reyyanabbas.vercel.app">
 <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Visit portfolio"/>
@@ -185,7 +177,7 @@ My personal website and digital identity.
 </td>
 <td width="50%" valign="top">
 
-<h3>🚀 Project One</h3>
+### 🚀 Project One
 
 <a href="https://project1-taupe-psi.vercel.app/">
 <img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Open project one"/>
@@ -202,7 +194,7 @@ One of my featured web projects, showcasing my interest in building digital expe
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎨 My Website</h3>
+### 🎨 My Website
 
 <a href="https://mywebsite-orcin-alpha.vercel.app/">
 <img src="https://img.shields.io/badge/EXPLORE_WEBSITE-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Explore my website"/>
@@ -217,7 +209,7 @@ Another website from my collection of digital creations.
 </td>
 <td width="50%" valign="top">
 
-<h3>💻 More on GitHub</h3>
+### 💻 More on GitHub
 
 <a href="https://github.com/reyyanking110?tab=repositories">
 <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
@@ -278,7 +270,7 @@ Explore my repositories to discover more projects, experiments, and future creat
 A channel for sharing videos and creative content.
 
 <a href="https://www.youtube.com/@voiceofshahnazabidi">
-<img src="https://img.shields.io/badge/VISIT_CHANNEL-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Visit Voice of Shahnaz Abidi"/>
+<img src="https://img.shields.io/badge/VISIT_CHANNEL-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Visit channel"/>
 </a>
 
 </td>
@@ -291,7 +283,7 @@ A channel for sharing videos and creative content.
 A space for facts, videos, and interesting ideas.
 
 <a href="https://youtube.com/@facter700">
-<img src="https://img.shields.io/badge/VISIT_CHANNEL-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Visit Facter 700"/>
+<img src="https://img.shields.io/badge/VISIT_CHANNEL-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Visit channel"/>
 </a>
 
 </td>
@@ -304,7 +296,7 @@ A space for facts, videos, and interesting ideas.
 A channel for my creative video projects and content.
 
 <a href="https://youtube.com/@itsryanpk">
-<img src="https://img.shields.io/badge/VISIT_CHANNEL-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Visit Its Ryan PK"/>
+<img src="https://img.shields.io/badge/VISIT_CHANNEL-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Visit channel"/>
 </a>
 
 </td>
@@ -317,15 +309,13 @@ A channel for my creative video projects and content.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/INSTAGRAM-Creative_Presence-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://www.instagram.com/syed_reyyan_abbas110/">
+<img src="https://img.shields.io/badge/INSTAGRAM-@syed__reyyan__abbas110-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile"/>
+</a>
 
 ### @syed_reyyan_abbas110
 
 Follow my Instagram profile to stay connected.
-
-<a href="https://www.instagram.com/syed_reyyan_abbas110/">
-<img src="https://img.shields.io/badge/FOLLOW_ON_INSTAGRAM-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"/>
-</a>
 
 </div>
 
@@ -424,6 +414,32 @@ flowchart TD
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/reyyanking110/reyyanking110/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/reyyanking110/reyyanking110/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/reyyanking110/reyyanking110/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+> **Setup required:** The snake SVG must be generated by GitHub Actions and published to the `output` branch. Follow the setup instructions at [Platane/snk](https://github.com/Platane/snk).
+
+---
+
 ## 💬 A Few Things About Me
 
 - 🔭 **Building:** Websites, digital projects, and coding experiments.
@@ -433,18 +449,6 @@ flowchart TD
 - 🤝 **Interested in:** Collaboration and sharing knowledge.
 - ⚡ **Fun fact:** I enjoy combining technology with creativity.
 - 🧭 **Belief:** The best way to learn is to build something yourself.
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/reyyanking110/reyyanking110/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation"/>
-
-</div>
-
-*To activate this animation, configure the GitHub Actions workflow using [Platane/snk](https://github.com/Platane/snk) to generate the SVG in the `output` branch.*
 
 ---
 
