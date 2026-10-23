@@ -1,27 +1,102 @@
-<!-- 🎮 PIXEL GAME INTRO HEADER -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--          🎮 REYYAN — PIXEL GAME CINEMATIC INTRO             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:101B3D,100:050816&height=20&section=header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=45&lines=PLAYER+ONE%3A+REYYAN;LOADING+DEVELOPER+WORLD...;WELCOME+TO+MY+PIXEL+UNIVERSE" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:101B3D,100:050816&height=4&section=header" />
+<!-- CINEMATIC OPENING -->
+<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=00F5FF" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/PLAYER-REYYAN-00F5FF?style=for-the-badge&labelColor=080B1A" />
-<img src="https://img.shields.io/badge/LEVEL-DEVELOPER-FF3CAC?style=for-the-badge&labelColor=080B1A" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=080B1A" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:101044,65:30105E,100:020617&height=180&section=header&text=REYYAN&fontSize=70&fontColor=00F5FF&fontAlignY=45&animation=twinkling&desc=THE%20PIXEL%20CHRONICLES&descSize=18&descColor=FF3CAC&descAlignY=70" />
+
+<!-- TRAILER OPENING TEXT -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=IN+A+WORLD+BUILT+FROM+CODE...;ONE+PLAYER+DARES+TO+CREATE.;THE+NEXT+LEVEL+STARTS+NOW." />
+
+<br/>
+
+<!-- GAME STATUS SCREEN -->
+<img src="https://img.shields.io/badge/PLAYER%2001-REYYAN-00F5FF?style=for-the-badge&labelColor=080B1A" />
+<img src="https://img.shields.io/badge/GAME_MODE-CREATIVE-FF3CAC?style=for-the-badge&labelColor=080B1A" />
+<img src="https://img.shields.io/badge/PLAYER_STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=080B1A" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2200&pause=700&color=F8F8F2&center=true&vCenter=true&width=650&height=40&lines=%3E+Building+the+future%2C+one+pixel+at+a+time.;%3E+Code.+Create.+Level+Up.;%3E+Developer+Mode%3A+ACTIVATED" />
+<!-- THE STORY BEGINS -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7C3AED" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:FF3CAC&height=3&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&width=850&height=45&lines=YEAR+20XX%3A+THE+DIGITAL+ERA;THE+WORLD+IS+MY+PLAYGROUND;MY+WEAPON%3F+IMAGINATION+%2B+CODE." />
+
+<br/>
+
+<!-- PIXEL GAME VISUAL -->
+<img width="90%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<br/><br/>
+
+<!-- CHAPTER TITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=800&height=55&lines=CHAPTER+01%3A+THE+BEGINNING;CHAPTER+02%3A+BUILD+THE+IMPOSSIBLE;CHAPTER+03%3A+UNLOCK+THE+FUTURE" />
+
+<br/>
+
+<!-- CINEMATIC QUOTE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00F5FF" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=45&lines=NOT+JUST+PLAYING+THE+GAME...;I'M+HERE+TO+BUILD+MY+OWN+WORLD.;EVERY+LINE+OF+CODE+IS+A+NEW+LEVEL." />
+
+<br/><br/>
+
+<!-- PLAYER ATTRIBUTES -->
+<table>
+<tr>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/XP-9999-00F5FF?style=for-the-badge&labelColor=080B1A" />
+<br/>
+<b>EXPERIENCE</b>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/CLASS-CREATOR-FF3CAC?style=for-the-badge&labelColor=080B1A" />
+<br/>
+<b>CHARACTER</b>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/MISSION-LEVEL_UP-39FF14?style=for-the-badge&labelColor=080B1A" />
+<br/>
+<b>OBJECTIVE</b>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- START GAME -->
+<a href="https://github.com/reyyanking110">
+<img src="https://img.shields.io/badge/▶_START_GAME-00F5FF?style=for-the-badge&labelColor=080B1A" />
+</a>
+&nbsp;
+<a href="https://reyyanabbas.vercel.app">
+<img src="https://img.shields.io/badge/ENTER_MY_WORLD-FF3CAC?style=for-the-badge&labelColor=080B1A" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2500&pause=1000&color=FACC15&center=true&vCenter=true&width=700&height=35&lines=PRESS+START+TO+CONTINUE...;PLAYER+ONE+IS+READY.;THE+ADVENTURE+NEVER+ENDS." />
+
+<br/>
+
+<!-- ENDING SCENE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:30105E,100:00F5FF&height=100&section=footer&animation=twinkling" />
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 END OF CINEMATIC INTRO                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
 ## 👨‍💻 About Me
