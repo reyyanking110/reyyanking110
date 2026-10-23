@@ -1,33 +1,17 @@
 
-<!--
-╔══════════════════════════════════════════════════════════╗
-║            REYYAN ABBAS | GITHUB PROFILE                 ║
-║       Developer • Designer • Student • Creator           ║
-╚══════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:00D9FF&height=230&section=header&text=REYYAN%20ABBAS&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20Student&descSize=19&descAlignY=58&animation=fadeIn"
-  width="100%"
-  alt="Reyyan Abbas animated header"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:00D9FF&height=230&section=header&text=REYYAN%20ABBAS&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20Student&descSize=19&descAlignY=58&animation=fadeIn" width="100%" alt="Reyyan Abbas Header"/>
 
-<!-- TYPING ANIMATION -->
 <a href="https://github.com/reyyanking110">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey%2C+I'm+Reyyan+Abbas+%F0%9F%91%8B;Developer+%7C+Designer+%7C+Student;Turning+Ideas+Into+Digital+Experiences;Building+Projects+And+Learning+Every+Day;Code.+Create.+Innovate.+Repeat."
-    alt="Animated introduction"
-  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=750&height=60&lines=Hey%2C+I'm+Reyyan+Abbas+%F0%9F%91%8B;Developer+%7C+Designer+%7C+Student;Turning+Ideas+Into+Digital+Experiences;Code.+Create.+Innovate.+Repeat." alt="Typing Animation"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=reyyanking110&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/reyyanking110?style=for-the-badge&color=111827&labelColor=00D9FF&logo=github&label=FOLLOWERS" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/reyyanking110?style=for-the-badge&color=111827&labelColor=00D9FF&logo=github&label=TOTAL%20STARS" alt="GitHub stars"/>
+<img src="https://komarev.com/ghpvc/?username=reyyanking110&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/reyyanking110?style=for-the-badge&color=111827&labelColor=00D9FF&logo=github&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/reyyanking110?style=for-the-badge&color=111827&labelColor=00D9FF&logo=github&label=STARS" alt="Stars"/>
 
 <br/><br/>
 
@@ -37,61 +21,60 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-0D1117?style=for-the-badge&logo=github)](https://github.com/reyyanking110)
-[![Explore Projects](https://img.shields.io/badge/Explore-My_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/reyyanking110?tab=repositories)
+<a href="https://github.com/reyyanking110">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-0D1117?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://reyyanabbas.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+</a>
+<a href="https://www.instagram.com/syed_reyyan_abbas110/">
+<img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
-
-## 🧑‍💻 About Me
+## 👋 About Me
 
 ```yaml
 name: Reyyan Abbas
-username: reyyanking110
+github: reyyanking110
+portfolio: reyyanabbas.vercel.app
 
 roles:
   - Developer
-  - Graphic & Digital Designer
+  - Designer
   - Student
-  - Creative Problem Solver
-
-mindset: "Learn. Build. Improve. Repeat."
+  - Creative Thinker
 
 interests:
-  - Software Development
   - Web Development
+  - Graphic Design
   - UI/UX Design
   - Artificial Intelligence
-  - Creative Technology
-  - Digital Content Creation
+  - Digital Creativity
+  - Technology
 
-currently:
-  - Improving my coding skills
-  - Exploring modern web technologies
-  - Designing creative digital experiences
-  - Building projects and experimenting with AI
-
+mindset: "Learn. Build. Improve. Repeat."
 motto: "Dream big. Start small. Build consistently."
 ```
 
-Hi there! 👋 I'm **Reyyan Abbas**, a student, developer, and designer passionate about technology, creativity, and turning ideas into reality.
+Hi there! 👋 I'm **Reyyan Abbas**, a student, developer, and designer passionate about technology, creativity, and building digital experiences.
 
-I enjoy exploring how things work, designing visually appealing experiences, and building digital projects that combine functionality with creativity.
+I enjoy exploring new technologies, designing attractive interfaces, developing websites, and transforming ideas into real projects.
 
-For me, development isn't just about writing code. It's about solving problems, experimenting with new ideas, and continuously improving the way things work.
+For me, development isn't just about writing code. It's about solving problems, experimenting with ideas, and continuously improving.
 
-- 💻 I enjoy building digital experiences.
-- 🎨 I love creative design and visual storytelling.
-- 📚 I'm a student who believes in learning by doing.
-- 🤖 I'm interested in AI-powered applications and modern technology.
-- 🚀 I enjoy experimenting with new tools, ideas, and workflows.
-- 🌱 I'm always working to improve my skills.
-- 🎯 My goal is to turn creative ideas into useful products.
+- 💻 Interested in development and programming.
+- 🎨 Passionate about graphic design and creative visuals.
+- 📚 Learning new concepts through study and practice.
+- 🤖 Exploring AI-powered applications and modern technology.
+- 🌐 Building websites and digital projects.
+- 🎬 Interested in video content and digital creativity.
+- 🚀 Focused on learning, creating, and improving every day.
 
-**My philosophy:** Stay curious, keep creating, and never stop learning.
+> **My philosophy:** Stay curious, keep creating, and never stop learning.
 
 ---
 
@@ -103,45 +86,39 @@ For me, development isn't just about writing code. It's about solving problems, 
 
 <h3 align="center">💻 Development</h3>
 
-<p align="center">
-Building, experimenting, and learning how software works.
-</p>
+<p align="center">Building digital experiences through code.</p>
 
-- 🌐 Web development
-- 🧩 Programming fundamentals
-- ⚙️ Logic and problem-solving
-- 🤖 AI application concepts
-- 🔧 Project development
+- Web development
+- Programming fundamentals
+- Website creation
+- Problem-solving
+- AI application exploration
 
 </td>
 <td width="33%" valign="top">
 
 <h3 align="center">🎨 Design</h3>
 
-<p align="center">
-Creating modern, attractive, and meaningful visuals.
-</p>
+<p align="center">Combining creativity with technology.</p>
 
-- 🖌️ Graphic design
-- 📱 UI/UX concepts
-- 🧱 Layout and composition
-- 🖼️ Thumbnails and branding
-- ✨ Visual creativity
+- Graphic design
+- UI/UX concepts
+- Visual composition
+- Branding and thumbnails
+- Creative layouts
 
 </td>
 <td width="33%" valign="top">
 
 <h3 align="center">📚 Learning</h3>
 
-<p align="center">
-Developing knowledge through practice and experimentation.
-</p>
+<p align="center">Growing through experimentation.</p>
 
-- 📖 Academic learning
-- 💡 Exploring new technologies
-- 🛠️ Hands-on practice
-- 🧠 Creative thinking
-- 📈 Continuous improvement
+- Academic learning
+- New technologies
+- Hands-on projects
+- Creative thinking
+- Continuous improvement
 
 </td>
 </tr>
@@ -151,11 +128,11 @@ Developing knowledge through practice and experimentation.
 
 ## 🛠️ Tech Stack & Tools
 
-### 🌐 Languages & Web Technologies
+### 🌐 Programming & Web Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp&theme=dark" alt="Programming and web technologies"/>
 
 </div>
 
@@ -175,7 +152,86 @@ Developing knowledge through practice and experimentation.
 
 </div>
 
-> These icons represent technologies and tools in my learning and creative interests, not a claim of expert-level proficiency in every tool.
+*These icons represent technologies and tools in my learning and creative interests; they don't imply expert-level proficiency in every tool.*
+
+---
+
+## 🚀 My Featured Projects
+
+<div align="center">
+
+### Explore My Digital Creations
+
+*Websites and projects built with creativity, code, and passion.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌐 Personal Portfolio</h3>
+
+<a href="https://reyyanabbas.vercel.app">
+<img src="https://img.shields.io/badge/VISIT_PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Visit portfolio"/>
+</a>
+
+My personal website and digital identity.
+
+**Platform:** Vercel
+
+**Focus:** Personal branding and web presence.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🚀 Project One</h3>
+
+<a href="https://project1-taupe-psi.vercel.app/">
+<img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Open project one"/>
+</a>
+
+One of my featured web projects, showcasing my interest in building digital experiences.
+
+**Platform:** Vercel
+
+**Focus:** Web development.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎨 My Website</h3>
+
+<a href="https://mywebsite-orcin-alpha.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE_WEBSITE-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Explore my website"/>
+</a>
+
+Another website from my collection of digital creations.
+
+**Platform:** Vercel
+
+**Focus:** Website design and development.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💻 More on GitHub</h3>
+
+<a href="https://github.com/reyyanking110?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
+</a>
+
+Explore my repositories to discover more projects, experiments, and future creations.
+
+**Platform:** GitHub
+
+**Focus:** Coding and continuous learning.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -184,123 +240,133 @@ Developing knowledge through practice and experimentation.
 <div align="center">
 
 <a href="https://github.com/reyyanking110">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=reyyanking110&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github"
-    alt="GitHub profile statistics"
-  />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=reyyanking110&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/reyyanking110">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyanking110&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF&langs_count=8"
-    alt="Most used languages"
-  />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyanking110&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Most used languages"/>
 </a>
 
 <br/><br/>
 
-<img
-  src="https://streak-stats.demolab.com?user=reyyanking110&theme=transparent&hide_border=true&background=050816&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"
-  width="95%"
-  alt="GitHub contribution streak"
-/>
+<img src="https://streak-stats.demolab.com?user=reyyanking110&theme=transparent&hide_border=true&background=050816&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="95%" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=reyyanking110&bg_color=050816&color=FFFFFF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
-  width="100%"
-  alt="GitHub contribution activity graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reyyanking110&bg_color=050816&color=FFFFFF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🎬 My YouTube Channels
 
 <div align="center">
 
+*Three channels. Different creative directions. One journey.*
+
+</div>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🌐 Web Development
+<img src="https://img.shields.io/badge/VOICE_OF_SHAHNAZ-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Voice of Shahnaz Abidi"/>
 
-**Creative Websites & Web Experiences**
+### 🎙️ Voice of Shahnaz Abidi
 
-Developing web interfaces and experimenting with layouts, styling, and interactive features.
+A channel for sharing videos and creative content.
 
-**Focus areas:**
-- Responsive design
-- HTML, CSS & JavaScript
-- Clean user interfaces
-
-<p>
-<a href="https://github.com/reyyanking110?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+<a href="https://www.youtube.com/@voiceofshahnazabidi">
+<img src="https://img.shields.io/badge/VISIT_CHANNEL-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Visit Voice of Shahnaz Abidi"/>
 </a>
-</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🤖 AI & Innovation
+<img src="https://img.shields.io/badge/FACTER_700-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Facter 700"/>
 
-**AI-Powered Applications**
+### 🧠 Facter 700
 
-Exploring how artificial intelligence can make applications smarter, more useful, and more interactive.
+A space for facts, videos, and interesting ideas.
 
-**Focus areas:**
-- AI application concepts
-- Chatbot experiences
-- Creative automation
-
-<p>
-<a href="https://github.com/reyyanking110?tab=repositories">
-<img src="https://img.shields.io/badge/View_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+<a href="https://youtube.com/@facter700">
+<img src="https://img.shields.io/badge/VISIT_CHANNEL-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Visit Facter 700"/>
 </a>
-</p>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🎨 Graphic Design
+<img src="https://img.shields.io/badge/ITS_RYAN_PK-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Its Ryan PK"/>
 
-**Visual Design & Branding**
+### ⚡ Its Ryan PK
 
-Experimenting with creative visuals, digital branding, thumbnails, and modern graphic compositions.
+A channel for my creative video projects and content.
 
-**Focus areas:**
-- Visual identity
-- Social media graphics
-- UI/UX inspiration
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Learning Projects
-
-**Learning Through Building**
-
-Using small projects and experiments to strengthen programming knowledge and problem-solving skills.
-
-**Focus areas:**
-- Practice projects
-- New technologies
-- Continuous improvement
+<a href="https://youtube.com/@itsryanpk">
+<img src="https://img.shields.io/badge/VISIT_CHANNEL-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Visit Its Ryan PK"/>
+</a>
 
 </td>
 </tr>
 </table>
 
+---
+
+## 📸 Instagram
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/INSTAGRAM-Creative_Presence-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+
+### @syed_reyyan_abbas110
+
+Follow my Instagram profile to stay connected.
+
+<a href="https://www.instagram.com/syed_reyyan_abbas110/">
+<img src="https://img.shields.io/badge/FOLLOW_ON_INSTAGRAM-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"/>
+</a>
+
 </div>
 
-> Replace these general project categories with your actual repository names and descriptions as your portfolio grows.
+---
+
+## 🌍 My Digital Presence
+
+<div align="center">
+
+<a href="https://github.com/reyyanking110">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://reyyanabbas.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+</a>
+<a href="https://project1-taupe-psi.vercel.app/">
+<img src="https://img.shields.io/badge/Project_01-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Project one"/>
+</a>
+<a href="https://mywebsite-orcin-alpha.vercel.app/">
+<img src="https://img.shields.io/badge/Website_02-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Website two"/>
+</a>
+
+<br/>
+
+<a href="https://www.youtube.com/@voiceofshahnazabidi">
+<img src="https://img.shields.io/badge/YouTube-Voice_of_Shahnaz-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Voice of Shahnaz"/>
+</a>
+<a href="https://youtube.com/@facter700">
+<img src="https://img.shields.io/badge/YouTube-Facter_700-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Facter 700"/>
+</a>
+<a href="https://youtube.com/@itsryanpk">
+<img src="https://img.shields.io/badge/YouTube-Its_Ryan_PK-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Its Ryan PK"/>
+</a>
+
+<br/>
+
+<a href="https://www.instagram.com/syed_reyyan_abbas110/">
+<img src="https://img.shields.io/badge/Instagram-syed__reyyan__abbas110-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</div>
 
 ---
 
@@ -308,26 +374,26 @@ Using small projects and experiments to strengthen programming knowledge and pro
 
 <div align="center">
 
-| Principle | What It Means to Me |
+| Principle | My Approach |
 |:---|:---|
 | 💡 Creativity | Think beyond the obvious |
-| 🧩 Problem Solving | Break complex tasks into smaller steps |
+| 🧩 Problem Solving | Break challenges into smaller steps |
 | 📚 Learning | Improve a little every day |
 | 🛠️ Building | Turn ideas into working projects |
 | 🎯 Consistency | Keep moving forward |
-| 🤝 Collaboration | Learn from other people and share ideas |
+| 🤝 Collaboration | Learn, share, and grow together |
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 My Current Goals
 
 - [ ] Strengthen programming fundamentals.
 - [ ] Build responsive websites and useful applications.
 - [ ] Improve UI/UX and graphic design skills.
 - [ ] Explore AI-powered development.
-- [ ] Create a collection of original projects.
+- [ ] Create more original projects.
 - [ ] Improve code quality and documentation.
 - [ ] Contribute to open-source projects.
 - [ ] Build a strong developer portfolio.
@@ -338,11 +404,11 @@ Using small projects and experiments to strengthen programming knowledge and pro
 
 ```mermaid
 flowchart TD
-    A["📚 Learn Fundamentals"] --> B["💻 Build Small Projects"]
+    A["📚 Learn Fundamentals"] --> B["💻 Build Projects"]
     B --> C["🌐 Explore Web Development"]
-    C --> D["🎨 Improve UI/UX Design"]
-    D --> E["🤖 Explore AI Applications"]
-    E --> F["🚀 Build Bigger Projects"]
+    C --> D["🎨 Improve UI/UX"]
+    D --> E["🤖 Explore AI"]
+    E --> F["🚀 Create Bigger Projects"]
     F --> G["🌍 Share & Collaborate"]
     G --> H["📈 Keep Improving"]
 
@@ -360,38 +426,13 @@ flowchart TD
 
 ## 💬 A Few Things About Me
 
-- 🔭 **Building:** Creative digital projects and coding experiments.
+- 🔭 **Building:** Websites, digital projects, and coding experiments.
 - 🌱 **Learning:** Development, design, and emerging technologies.
 - 🎨 **Creating:** Visual designs and digital experiences.
-- 🤝 **Interested in:** Collaboration, knowledge sharing, and new ideas.
+- 🎬 **Exploring:** Video creation and online content.
+- 🤝 **Interested in:** Collaboration and sharing knowledge.
 - ⚡ **Fun fact:** I enjoy combining technology with creativity.
 - 🧭 **Belief:** The best way to learn is to build something yourself.
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/reyyanking110">
-  <img src="https://img.shields.io/badge/GitHub-Reyyan_Abbas-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-</a>
-
-<!-- Add your real profile links when available. -->
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
-</a>
-
-<a href="https://www.instagram.com/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
-</a>
-
-<br/><br/>
-
-**Open to learning, creating, and collaborating on interesting ideas.**
-
-</div>
 
 ---
 
@@ -399,47 +440,40 @@ flowchart TD
 
 <div align="center">
 
-<!--
-To enable this animation, configure the GitHub Actions workflow
-described at:
-https://github.com/Platane/snk
-
-After configuring the workflow, use the generated SVG below.
--->
-
-<img
-  src="https://raw.githubusercontent.com/reyyanking110/reyyanking110/output/github-contribution-grid-snake.svg"
-  alt="GitHub contribution snake animation"
-/>
+<img src="https://raw.githubusercontent.com/reyyanking110/reyyanking110/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation"/>
 
 </div>
 
+*To activate this animation, configure the GitHub Actions workflow using [Platane/snk](https://github.com/Platane/snk) to generate the SVG in the `output` branch.*
+
 ---
 
-## ✨ The Philosophy
+## ✨ My Philosophy
 
 <div align="center">
 
 ### `Code with purpose. Design with passion. Learn without limits.`
 
-I believe every project is an opportunity to learn something new.
+Every project is an opportunity to learn something new.
 
 Every challenge is a chance to improve.
 
-Every idea can become something meaningful with enough curiosity, effort, and creativity.
+Every idea can become something meaningful with curiosity, effort, and creativity.
 
-**This is just the beginning. 🚀**
+### 🚀 This is just the beginning.
 
 <br/>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:111827,100:050816&height=120&section=footer"
-  width="100%"
-  alt="Animated footer"
-/>
+<a href="https://github.com/reyyanking110?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_My_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:111827,100:050816&height=130&section=footer" width="100%" alt="Footer"/>
 
 <sub>Designed with 💙 by Reyyan Abbas</sub>
 
-<sub>⭐ If you like what I'm building, explore my repositories and follow my journey.</sub>
+<sub>Thanks for visiting my profile! ⭐</sub>
 
 </div>
