@@ -66,10 +66,30 @@ I enjoy turning ideas into digital experiences and discovering how technology ca
 
 <br/><br/>
 
-<a href="https://www.youtube.com/@voiceofshahnazabidi"><img src="https://img.shields.io/badge/Voice%20of%20Shahnaz-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Voice of Shahnaz YouTube"/></a>
-<a href="https://youtube.com/@facter700"><img src="https://img.shields.io/badge/Facter700-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Facter700 YouTube"/></a>
-<a href="https://youtube.com/@itsryanpk"><img src="https://img.shields.io/badge/ItsRyanPK-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ItsRyanPK YouTube"/></a>
+<!-- YouTube Channels -->
+<h2 align="center">🎬 My YouTube Channels</h2>
 
+<p align="center">
+  <a href="https://www.youtube.com/@voiceofshahnazabidi">
+    <img src="https://img.shields.io/badge/Voice_of_Shahnaz_Abidi-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@facter700">
+    <img src="https://img.shields.io/badge/FactER_700-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@itsryanpk">
+    <img src="https://img.shields.io/badge/It's_Ryan_PK-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@vlogsbyshahhaz">
+    <img src="https://img.shields.io/badge/Vlogs_by_Shahhaz-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Content-Facts%20%26%20Knowledge-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Content-Vlogs-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Content-AI%20Videos-00C7B7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Content-Entertainment-ff69b4?style=flat-square" />
+</p>
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=450&height=30&lines=Connect+%E2%80%A2+Collaborate+%E2%80%A2+Create" alt="Animated connect message"/>
@@ -112,41 +132,63 @@ I enjoy turning ideas into digital experiences and discovering how technology ca
 
 ## 🚀 Projects & Experiments
 
-<div align="center">
+<!-- 🌐 Web Projects -->
+<h2 align="center">🌐 My Web Development Projects</h2>
 
-<img align="right" width="180" alt="Animated rocket" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Building+Modern+Websites;Turning+Ideas+Into+Reality;Learning+ by+Building+Projects;My+Web+Development+Journey" />
+</p>
 
-<a href="https://reyyanabbas.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Personal_Portfolio-Visit_Website-00D9FF?style=for-the-badge&labelColor=050816" alt="Personal portfolio"/>
-</a>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🚀 Personal Portfolio</h3>
+      <a href="https://reyyanabbas.vercel.app">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge" />
+      </a>
+      <br/><br/>
+      <p>A personal website showcasing my developer identity, skills, and work.</p>
+      <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
+    </td>
+    <td width="50%" align="center">
+      <h3>💻 Project One</h3>
+      <a href="https://project1-taupe-psi.vercel.app/">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge" />
+      </a>
+      <br/><br/>
+      <p>A web project built to explore modern design and interactive web experiences.</p>
+      <img src="https://img.shields.io/badge/Type-Web_Project-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>✨ Project Two</h3>
+      <a href="https://mywebsite-orcin-alpha.vercel.app/">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge" />
+      </a>
+      <br/><br/>
+      <p>Another website from my journey of learning, experimenting, and creating.</p>
+      <img src="https://img.shields.io/badge/Type-Web_Development-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
+    </td>
+    <td width="50%" align="center">
+      <h3>🧪 Future Projects</h3>
+      <img src="https://img.shields.io/badge/Coming-Soon-333333?style=for-the-badge&logo=github" />
+      <br/><br/>
+      <p>More creative websites, experiments, and exciting projects are on the way.</p>
+      <img src="https://img.shields.io/badge/Focus-Creativity-orange?style=flat-square" />
+      <img src="https://img.shields.io/badge/Goal-Build_More-blueviolet?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
-
-<a href="https://project1-taupe-psi.vercel.app/">
-<img src="https://img.shields.io/badge/🚀_Project_01-Explore-0D47A1?style=for-the-badge&labelColor=050816" alt="Project 1"/>
-</a>
-
-<a href="https://mywebsite-orcin-alpha.vercel.app/">
-<img src="https://img.shields.io/badge/✨_Project_02-Explore-00D9FF?style=for-the-badge&labelColor=050816" alt="Project 2"/>
-</a>
-
-<br clear="right"/>
-
-<br/>
-
-<a href="https://github.com/reyyanking110/reyyanking110">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=reyyanking110&repo=reyyanking110&bg_color=050816&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&border_color=0D47A1" alt="GitHub profile repository"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/reyyanking110?tab=repositories">
-<img src="https://img.shields.io/badge/View-All%20Repositories-050816?style=for-the-badge&logo=github&logoColor=00D9FF" alt="All repositories"/>
-</a>
-
-</div>
-
----
+<p align="center">
+  <a href="https://github.com/reyyanking110?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
 
