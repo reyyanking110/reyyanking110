@@ -1,29 +1,27 @@
-
-<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
-
+<!-- 🎮 PIXEL GAME INTRO HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:0D47A1,70:00D9FF,100:050816&height=220&section=header&text=Reyyan%20Abbas&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Designer%20%7C%20Creative%20Thinker&descAlignY=57&descSize=17" alt="Reyyan Abbas animated header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:101B3D,100:050816&height=20&section=header" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=55&lines=Hi%2C+I'm+Reyyan+Abbas+%F0%9F%91%8B;Welcome+to+my+digital+workspace+%F0%9F%92%BB;Building+Ideas+Into+Reality+%F0%9F%9A%80;Exploring+Code%2C+Design+%26+AI+%E2%9C%A8;Learning.+Building.+Growing.+%F0%9F%8C%B1" alt="Animated typing introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=45&lines=PLAYER+ONE%3A+REYYAN;LOADING+DEVELOPER+WORLD...;WELCOME+TO+MY+PIXEL+UNIVERSE" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:101B3D,100:050816&height=4&section=header" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=reyyanking110&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile views"/>
-<a href="https://github.com/reyyanking110?tab=followers"><img src="https://img.shields.io/github/followers/reyyanking110?label=Followers&style=for-the-badge&color=0D47A1&labelColor=050816&logo=github" alt="GitHub followers"/></a>
-<img src="https://img.shields.io/badge/Status-Always%20Learning-00D9FF?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Always learning"/>
+<img src="https://img.shields.io/badge/PLAYER-REYYAN-00F5FF?style=for-the-badge&labelColor=080B1A" />
+<img src="https://img.shields.io/badge/LEVEL-DEVELOPER-FF3CAC?style=for-the-badge&labelColor=080B1A" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=080B1A" />
 
 <br/><br/>
 
-<a href="https://github.com/reyyanking110"><img src="https://img.shields.io/badge/Explore%20My-GitHub-050816?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore GitHub"/></a>
-<a href="https://reyyanabbas.vercel.app"><img src="https://img.shields.io/badge/Visit-Portfolio-0D47A1?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2200&pause=700&color=F8F8F2&center=true&vCenter=true&width=650&height=40&lines=%3E+Building+the+future%2C+one+pixel+at+a+time.;%3E+Code.+Create.+Level+Up.;%3E+Developer+Mode%3A+ACTIVATED" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:FF3CAC&height=3&section=footer" />
 
 </div>
-
----
-
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
 ## 👨‍💻 About Me
