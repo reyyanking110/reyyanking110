@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://reyyanabbas.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO_%E2%86%97-F0B440?style=for-the-badge&logo=vercel&logoColor=0A0A0A" alt="Portfolio"></a>
+  <a href="https://ryangraphix.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO_%E2%86%97-F0B440?style=for-the-badge&logo=vercel&logoColor=0A0A0A" alt="Portfolio"></a>
   <a href="https://ryangraphix.vercel.app"><img src="https://img.shields.io/badge/DESIGN_STUDIO_%E2%86%97-0A0A0A?style=for-the-badge&logo=figma&logoColor=F0B440" alt="Design Studio"></a>
   <a href="https://github.com/reyyanking110?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0A0A0A?style=for-the-badge&logo=github&logoColor=F0B440" alt="Projects"></a>
   <a href="https://www.instagram.com/syed_reyyan_abbas110/"><img src="https://img.shields.io/badge/INSTAGRAM-0A0A0A?style=for-the-badge&logo=instagram&logoColor=F0B440" alt="Instagram"></a>
