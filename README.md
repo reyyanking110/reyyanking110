@@ -1,139 +1,75 @@
-<!--
-  Premium profile README — paste-ready.
-  Palette: black #0A0A0A, gold #D4A13A / #F0B440, silver #E0E0E0.
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,60:3A2A0B,100:D4A13A&height=230&section=header&text=Reyyan%20Abbas&fontSize=56&fontColor=F0B440&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer&descSize=18&descColor=E0E0E0&descAlignY=58&animation=fadeIn" alt="Reyyan Abbas, Full-Stack Developer">
 
-<a href="https://reyyanabbas.vercel.app"><img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:070707,50:1A1408,100:070707&height=220&text=REYYAN%20ABBAS&fontColor=F0B440&fontSize=60&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Premium%20Web%20Experiences&descColor=E0E0E0&descSize=20&descAlignY=63&animation=fadeIn" alt="Reyyan Abbas — Full-Stack Developer"></a>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=1200&color=F0B440&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Developer+%C2%B7+Designer+%C2%B7+Creator;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Interactive+web%2C+games+%26+AI-powered+tools;Engineering+ideas+into+polished+products." alt="Full-Stack Developer · Designer · Creator">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1400&color=F0B440&center=true&vCenter=true&width=560&height=30&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Interfaces+that+feel+as+good+as+they+look;Pakistan" alt="">
+
+<br>
+
+[**Portfolio**](https://reyyanabbas.vercel.app) &nbsp;·&nbsp; [**Design work**](https://ryangraphix.vercel.app) &nbsp;·&nbsp; [**Repositories**](https://github.com/reyyanking110?tab=repositories) &nbsp;·&nbsp; [**Instagram**](https://www.instagram.com/syed_reyyan_abbas110/) &nbsp;·&nbsp; [**YouTube**](https://youtube.com/@itsryanpk)
+
+</div>
+
+<br>
+
+### About
+
+I build web products where the details get the same attention as the logic: fast front-ends, clean APIs, and the small interactions that make a site feel finished. Most of my work sits between engineering and design, and I'm happiest when I get to do both.
+
+Outside client-style builds I make browser games, AI-powered tools, and run four YouTube channels, which keeps me shipping and keeps me close to what real users actually want.
+
+<br>
+
+### Selected work
+
+| | Project | What it is |
+|:--|:--|:--|
+| `01` | [**Personal Portfolio**](https://reyyanabbas.vercel.app) | My main site. Work, services and contact in one place. |
+| `02` | [**Browser Game**](https://ryangame.vercel.app) | An original game built from scratch. Open the link and play. |
+| `03` | [**Video Prompts Generator**](https://pmp4flow.vercel.app) | Generates structured prompts for AI video workflows in Flow. |
+| `04` | [**Blink Catcher**](https://blink-catcher.vercel.app) | Detects eye blinks live in the browser. |
+| `05` | [**Reyyan Graphic Studio**](https://github.com/reyyanking110/reyyan-graphic-studio) | Studio site for logos, business cards and social graphics. |
+
+<br>
+
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=F0B440" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=F0B440" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=F0B440" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F0B440" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Three.js-0A0A0A?style=flat-square&logo=threedotjs&logoColor=F0B440" alt="Three.js">
+  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=F0B440" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=F0B440" alt="Python">
+  <img src="https://img.shields.io/badge/C++-0A0A0A?style=flat-square&logo=cplusplus&logoColor=F0B440" alt="C++">
+  <img src="https://img.shields.io/badge/Firebase-0A0A0A?style=flat-square&logo=firebase&logoColor=F0B440" alt="Firebase">
+  <img src="https://img.shields.io/badge/Figma-0A0A0A?style=flat-square&logo=figma&logoColor=F0B440" alt="Figma">
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=F0B440" alt="Git">
+  <img src="https://img.shields.io/badge/Vercel-0A0A0A?style=flat-square&logo=vercel&logoColor=F0B440" alt="Vercel">
 </p>
 
-<p align="center">
-  <a href="https://ryangraphix.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO_%E2%86%97-F0B440?style=for-the-badge&logo=vercel&logoColor=0A0A0A" alt="Portfolio"></a>
-  <a href="https://ryangraphix.vercel.app"><img src="https://img.shields.io/badge/DESIGN_STUDIO_%E2%86%97-0A0A0A?style=for-the-badge&logo=figma&logoColor=F0B440" alt="Design Studio"></a>
-  <a href="https://github.com/reyyanking110?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0A0A0A?style=for-the-badge&logo=github&logoColor=F0B440" alt="Projects"></a>
-  <a href="https://www.instagram.com/syed_reyyan_abbas110/"><img src="https://img.shields.io/badge/INSTAGRAM-0A0A0A?style=for-the-badge&logo=instagram&logoColor=F0B440" alt="Instagram"></a>
-  <a href="https://youtube.com/@itsryanpk"><img src="https://img.shields.io/badge/YOUTUBE-0A0A0A?style=for-the-badge&logo=youtube&logoColor=F0B440" alt="YouTube"></a>
-</p>
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=56&text=01%20%C2%B7%20ABOUT&fontColor=F0B440&fontSize=18&fontAlignY=55" alt="01 · About">
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-I’m Reyyan — a full-stack developer and designer from Pakistan. I build visually refined, performant web products, from interactive front-ends to the backends and AI features that power them.
-
-◆ Production web apps with React, Next.js & TypeScript<br>
-◆ Immersive experiences with Three.js, Canvas & WebGL<br>
-◆ Browser games, AI-powered tools & automation<br>
-◆ Brand and visual design: logos, business cards, social graphics<br>
-◆ Content across four YouTube channels
-
-</td>
-<td width="38%" valign="top">
-
-**FOCUS**
-
-**FRONT-END**  React · Next.js · Three.js<br>
-**BACK-END**  Node.js · APIs · Databases<br>
-**DEPLOY**  Vercel<br>
-**BASED IN**  Pakistan
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=56&text=02%20%C2%B7%20SELECTED%20WORK&fontColor=F0B440&fontSize=18&fontAlignY=55" alt="02 · Selected work">
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-<a href="https://reyyanabbas.vercel.app"><img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0A0A0A&height=230&text=Personal%20Portfolio&fontColor=F2F2F2&fontSize=62&fontAlignY=44&desc=01%20%C2%B7%20FEATURED%20%C2%B7%20TYPESCRIPT&descColor=F0B440&descSize=26&descAlignY=74" alt="Personal Portfolio"></a>
-<br>My digital home: a premium showcase of work, skills and services.<br><br>
-<a href="https://reyyanabbas.vercel.app"><img src="https://img.shields.io/badge/OPEN_SITE_%E2%86%97-F0B440?style=for-the-badge" alt="Open Personal Portfolio"></a>
-</td>
-<td width="50%" valign="top" align="center">
-<a href="https://ryangame.vercel.app"><img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0A0A0A&height=230&text=Browser%20Game&fontColor=F2F2F2&fontSize=62&fontAlignY=44&desc=02%20%C2%B7%20GAME%20%C2%B7%20INTERACTIVE&descColor=F0B440&descSize=26&descAlignY=74" alt="Browser Game"></a>
-<br>An original game built from scratch and playable instantly in the browser.<br><br>
-<a href="https://ryangame.vercel.app"><img src="https://img.shields.io/badge/PLAY_NOW_%E2%86%97-F0B440?style=for-the-badge" alt="Play the game"></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-<a href="https://pmp4flow.vercel.app"><img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0A0A0A&height=230&text=Video%20Prompts&fontColor=F2F2F2&fontSize=62&fontAlignY=44&desc=03%20%C2%B7%20AI%20%C2%B7%20CREATOR%20TOOL&descColor=F0B440&descSize=26&descAlignY=74" alt="Video Prompts Generator"></a>
-<br>A prompt generator that speeds up AI video workflows for Flow.<br><br>
-<a href="https://pmp4flow.vercel.app"><img src="https://img.shields.io/badge/OPEN_TOOL_%E2%86%97-F0B440?style=for-the-badge" alt="Open Video Prompts Generator"></a>
-</td>
-<td width="50%" valign="top" align="center">
-<a href="https://blink-catcher.vercel.app"><img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0A0A0A&height=230&text=Blink%20Catcher&fontColor=F2F2F2&fontSize=62&fontAlignY=44&desc=04%20%C2%B7%20INTERACTIVE%20%C2%B7%20WEB&descColor=F0B440&descSize=26&descAlignY=74" alt="Eye Blink Catcher"></a>
-<br>An eye-blink detection experience that runs right in the browser.<br><br>
-<a href="https://blink-catcher.vercel.app"><img src="https://img.shields.io/badge/TRY_IT_%E2%86%97-F0B440?style=for-the-badge" alt="Try Blink Catcher"></a>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" align="center">
-<a href="https://github.com/reyyanking110/reyyan-graphic-studio"><img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0A0A0A&height=200&text=Reyyan%20Graphic%20Studio&fontColor=F2F2F2&fontSize=56&fontAlignY=44&desc=05%20%C2%B7%20DESIGN%20%C2%B7%20WEB&descColor=F0B440&descSize=24&descAlignY=74" alt="Reyyan Graphic Studio"></a>
-<br>A studio site for logos, business cards and social media graphics.<br><br>
-<a href="https://github.com/reyyanking110/reyyan-graphic-studio"><img src="https://img.shields.io/badge/VIEW_REPO_%E2%86%97-0A0A0A?style=for-the-badge&logo=github&logoColor=F0B440" alt="View repository"></a>
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=56&text=03%20%C2%B7%20TECH%20STACK&fontColor=F0B440&fontSize=18&fontAlignY=55" alt="03 · Tech stack">
+### Activity
 
 <p align="center">
-  <sub><b>FRONT-END</b></sub><br>
-  <img src="https://img.shields.io/badge/React-F0B440?style=for-the-badge&logo=react&logoColor=0A0A0A" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-F0B440?style=for-the-badge&logo=nextdotjs&logoColor=0A0A0A" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-F0B440?style=for-the-badge&logo=typescript&logoColor=0A0A0A" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Three.js-F0B440?style=for-the-badge&logo=threedotjs&logoColor=0A0A0A" alt="Three.js">
-  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F0B440" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=F0B440" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css&logoColor=F0B440" alt="CSS3">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reyyanking110&show_icons=true&hide_border=true&border_radius=10&bg_color=0A0A0A&title_color=F0B440&icon_color=D4A13A&text_color=E0E0E0&ring_color=F0B440&custom_title=GitHub%20Stats" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyanking110&layout=compact&hide_border=true&border_radius=10&bg_color=0A0A0A&title_color=F0B440&text_color=E0E0E0&langs_count=6&custom_title=Top%20Languages" alt="Top languages">
 </p>
 
-<p align="center">
-  <sub><b>BACK-END &amp; LANGUAGES</b></sub><br>
-  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=F0B440" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=F0B440" alt="Python">
-  <img src="https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=F0B440" alt="C++">
-  <img src="https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=F0B440" alt="Firebase">
-</p>
-
-<p align="center">
-  <sub><b>DESIGN &amp; DELIVERY</b></sub><br>
-  <img src="https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=F0B440" alt="Figma">
-  <img src="https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge" alt="VS Code">
-  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F0B440" alt="Git">
-  <img src="https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=F0B440" alt="Vercel">
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=56&text=04%20%C2%B7%20CHANNELS&fontColor=F0B440&fontSize=18&fontAlignY=55" alt="04 · Channels">
-
-<p align="center">
-  <a href="https://www.youtube.com/@voiceofshahnazabidi"><img src="https://img.shields.io/badge/Voice_of_Shahnaz-0A0A0A?style=for-the-badge&logo=youtube&logoColor=F0B440" alt="Voice of Shahnaz on YouTube"></a>
-  <a href="https://youtube.com/@facter700"><img src="https://img.shields.io/badge/FactER700-0A0A0A?style=for-the-badge&logo=youtube&logoColor=F0B440" alt="FactER700 on YouTube"></a>
-  <a href="https://youtube.com/@itsryanpk"><img src="https://img.shields.io/badge/ItsRyanPK-0A0A0A?style=for-the-badge&logo=youtube&logoColor=F0B440" alt="ItsRyanPK on YouTube"></a>
-  <a href="https://www.youtube.com/@vlogsbyshahhaz"><img src="https://img.shields.io/badge/Vlogs_by_Shahhaz-0A0A0A?style=for-the-badge&logo=youtube&logoColor=F0B440" alt="Vlogs by Shahhaz on YouTube"></a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=56&text=05%20%C2%B7%20ACTIVITY&fontColor=F0B440&fontSize=18&fontAlignY=55" alt="05 · Activity">
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=reyyanking110&show_icons=true&hide_border=true&border_radius=12&bg_color=0A0A0A&title_color=F0B440&icon_color=D4A13A&text_color=E0E0E0&ring_color=F0B440&custom_title=GitHub%20Stats" alt="GitHub stats">
-  <img height="160" src="https://streak-stats.demolab.com?user=reyyanking110&hide_border=true&border_radius=12&background=0A0A0A&ring=D4A13A&fire=F0B440&currStreakLabel=F0B440&sideLabels=E0E0E0&dates=8A8A8A&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=262626" alt="Contribution streak">
-</p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=reyyanking110&bg_color=0A0A0A&color=E0E0E0&line=D4A13A&point=F0B440&area=true&area_color=D4A13A&hide_border=true&hide_title=true" alt="Contribution graph">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reyyanking110/reyyanking110/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reyyanking110/reyyanking110/output/github-contribution-grid-snake.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/reyyanking110/reyyanking110/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph">
+  <img width="100%" src="https://raw.githubusercontent.com/reyyanking110/reyyanking110/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake">
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:070707,50:1A1408,100:070707&height=150&text=%E2%80%9CThe%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.%E2%80%9D&fontColor=E0E0E0&fontSize=22&fontAlignY=42&desc=BUILD%20%C2%B7%20SHIP%20%C2%B7%20ITERATE&descColor=F0B440&descSize=13&descAlignY=68" alt="Build. Ship. Iterate.">
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reyyanking110&style=for-the-badge&color=F0B440&label=PROFILE+VIEWS" alt="Profile views">
-</p>
+### Channels
+
+[Voice of Shahnaz](https://www.youtube.com/@voiceofshahnazabidi) &nbsp;·&nbsp; [FactER700](https://youtube.com/@facter700) &nbsp;·&nbsp; [ItsRyanPK](https://youtube.com/@itsryanpk) &nbsp;·&nbsp; [Vlogs by Shahhaz](https://www.youtube.com/@vlogsbyshahhaz)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,60:3A2A0B,100:D4A13A&height=110&section=footer" alt="">
