@@ -8,14 +8,14 @@
 
 <br><br>
 
-<a href="https://reyyanabbas.vercel.app"><img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-D4A13A?style=for-the-badge&labelColor=D4A13A&color=D4A13A&logo=arrowup-right&logoColor=0A0A0A" alt="View portfolio"></a>
+<a href="https://reyyanabbas.vercel.app"><img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-%E2%86%97-D4A13A?style=for-the-badge&labelColor=0A0A0A" alt="VIEW PORTFOLIO"></a>
 
-<sub>
-<a href="https://ryangraphix.vercel.app">DESIGN</a> &nbsp;&nbsp;/&nbsp;&nbsp;
-<a href="https://github.com/reyyanking110?tab=repositories">REPOSITORIES</a> &nbsp;&nbsp;/&nbsp;&nbsp;
-<a href="https://www.instagram.com/syed_reyyan_abbas110/">INSTAGRAM</a> &nbsp;&nbsp;/&nbsp;&nbsp;
-<a href="https://youtube.com/@itsryanpk">YOUTUBE</a>
-</sub>
+<p>
+  <a href="https://ryangraphix.vercel.app"><img src="https://img.shields.io/badge/DESIGN-%E2%86%97-D4A13A?style=for-the-badge&labelColor=0A0A0A" alt="DESIGN"></a>
+  <a href="https://github.com/reyyanking110?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-%E2%86%97-D4A13A?style=for-the-badge&labelColor=0A0A0A" alt="REPOSITORIES"></a>
+  <a href="https://www.instagram.com/syed_reyyan_abbas110/"><img src="https://img.shields.io/badge/INSTAGRAM-%E2%86%97-D4A13A?style=for-the-badge&labelColor=0A0A0A" alt="INSTAGRAM"></a>
+  <a href="https://youtube.com/@itsryanpk"><img src="https://img.shields.io/badge/YOUTUBE-%E2%86%97-D4A13A?style=for-the-badge&labelColor=0A0A0A" alt="YOUTUBE"></a>
+</p>
 
 </div>
 
@@ -39,29 +39,29 @@ Most of my work lives between engineering and design, and I like it that way.
 
 <table align="center">
 <tr>
-<td width="60"><sub><code>01</code></sub></td>
-<td><a href="https://reyyanabbas.vercel.app"><b>Portfolio</b></a><br><sub>My main site. Work, services, contact.</sub></td>
-<td align="right"><a href="https://reyyanabbas.vercel.app">↗</a></td>
+<td width="50"><sub><code>01</code></sub></td>
+<td><b>Portfolio</b><br><sub>My main site. Work, services, contact.</sub></td>
+<td align="right"><a href="https://reyyanabbas.vercel.app"><img src="https://img.shields.io/badge/OPEN-%E2%86%97-D4A13A?style=flat-square&labelColor=0A0A0A" alt="OPEN"></a></td>
 </tr>
 <tr>
-<td><sub><code>02</code></sub></td>
-<td><a href="https://ryangame.vercel.app"><b>Game</b></a><br><sub>An original browser game, built from scratch.</sub></td>
-<td align="right"><a href="https://ryangame.vercel.app">↗</a></td>
+<td width="50"><sub><code>02</code></sub></td>
+<td><b>Game</b><br><sub>An original browser game, built from scratch.</sub></td>
+<td align="right"><a href="https://ryangame.vercel.app"><img src="https://img.shields.io/badge/PLAY-%E2%86%97-D4A13A?style=flat-square&labelColor=0A0A0A" alt="PLAY"></a></td>
 </tr>
 <tr>
-<td><sub><code>03</code></sub></td>
-<td><a href="https://pmp4flow.vercel.app"><b>Video Prompts Generator</b></a><br><sub>Structured prompts for AI video workflows in Flow.</sub></td>
-<td align="right"><a href="https://pmp4flow.vercel.app">↗</a></td>
+<td width="50"><sub><code>03</code></sub></td>
+<td><b>Video Prompts Generator</b><br><sub>Structured prompts for AI video workflows in Flow.</sub></td>
+<td align="right"><a href="https://pmp4flow.vercel.app"><img src="https://img.shields.io/badge/OPEN-%E2%86%97-D4A13A?style=flat-square&labelColor=0A0A0A" alt="OPEN"></a></td>
 </tr>
 <tr>
-<td><sub><code>04</code></sub></td>
-<td><a href="https://blink-catcher.vercel.app"><b>Blink Catcher</b></a><br><sub>Live eye-blink detection in the browser.</sub></td>
-<td align="right"><a href="https://blink-catcher.vercel.app">↗</a></td>
+<td width="50"><sub><code>04</code></sub></td>
+<td><b>Blink Catcher</b><br><sub>Live eye-blink detection in the browser.</sub></td>
+<td align="right"><a href="https://blink-catcher.vercel.app"><img src="https://img.shields.io/badge/TRY-%E2%86%97-D4A13A?style=flat-square&labelColor=0A0A0A" alt="TRY"></a></td>
 </tr>
 <tr>
-<td><sub><code>05</code></sub></td>
-<td><a href="https://github.com/reyyanking110/reyyan-graphic-studio"><b>Graphic Studio</b></a><br><sub>Logos, business cards and social graphics.</sub></td>
-<td align="right"><a href="https://github.com/reyyanking110/reyyan-graphic-studio">↗</a></td>
+<td width="50"><sub><code>05</code></sub></td>
+<td><b>Graphic Studio</b><br><sub>Logos, business cards and social graphics.</sub></td>
+<td align="right"><a href="https://github.com/reyyanking110/reyyan-graphic-studio"><img src="https://img.shields.io/badge/REPO-%E2%86%97-D4A13A?style=flat-square&labelColor=0A0A0A" alt="REPO"></a></td>
 </tr>
 </table>
 
@@ -98,12 +98,10 @@ Most of my work lives between engineering and design, and I like it that way.
 <br><br>
 
 <p align="center">
-<sub>
-<a href="https://www.youtube.com/@voiceofshahnazabidi">Voice of Shahnaz</a> &nbsp;·&nbsp;
-<a href="https://youtube.com/@facter700">FactER700</a> &nbsp;·&nbsp;
-<a href="https://youtube.com/@itsryanpk">ItsRyanPK</a> &nbsp;·&nbsp;
-<a href="https://www.youtube.com/@vlogsbyshahhaz">Vlogs by Shahhaz</a>
-</sub>
+  <a href="https://www.youtube.com/@voiceofshahnazabidi"><img src="https://img.shields.io/badge/Voice%20of%20Shahnaz-0A0A0A?style=flat-square&logo=youtube&logoColor=D4A13A&labelColor=0A0A0A" alt="Voice of Shahnaz"></a>
+  <a href="https://youtube.com/@facter700"><img src="https://img.shields.io/badge/FactER700-0A0A0A?style=flat-square&logo=youtube&logoColor=D4A13A&labelColor=0A0A0A" alt="FactER700"></a>
+  <a href="https://youtube.com/@itsryanpk"><img src="https://img.shields.io/badge/ItsRyanPK-0A0A0A?style=flat-square&logo=youtube&logoColor=D4A13A&labelColor=0A0A0A" alt="ItsRyanPK"></a>
+  <a href="https://www.youtube.com/@vlogsbyshahhaz"><img src="https://img.shields.io/badge/Vlogs%20by%20Shahhaz-0A0A0A?style=flat-square&logo=youtube&logoColor=D4A13A&labelColor=0A0A0A" alt="Vlogs by Shahhaz"></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4A13A,100:0D1117&height=2" alt="">
